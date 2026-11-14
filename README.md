@@ -105,6 +105,6 @@ Technological University of the Shannon (TUS)
 
 ## Project Status
 
-**Completed — Assessment 3, November 2026**
+**Completed — Part 2, November 2026**
 
 The Unity source files are included in this repository. The Android APK, demonstration video, project report and evaluation evidence are provided separately as part of the university assessment submission.
