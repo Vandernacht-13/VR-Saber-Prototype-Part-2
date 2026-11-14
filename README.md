@@ -6,7 +6,7 @@ VR-Saber-Prototype-Part_2
 
 A virtual reality rhythm game developed using **Unity 6, C# and the XR Interaction Toolkit (XRI)** for the **Meta Quest 2**.
 
-This project was developed as part of Assessment 3 for the Virtual, Augmented and Spatial Computing module at Technological University of the Shannon (TUS).
+This project was developed as the second half of our assesment for the Virtual, Augmented and Spatial Computing module at Technological University of the Shannon (TUS).
 
 ## Project Overview
 
